@@ -13,3 +13,6 @@ Start the game by running the script.
 Follow the prompts to draw cards or pass.
 The goal is to get as close to 21 as possible without exceeding it.
 The game will announce the winner based on the final scores.
+
+# language used
+python
